@@ -1,10 +1,16 @@
 * { margin: 0px;
     padding: 0px;}
-
+/*seccion navbar*/
 body{background-color: black;
 font-family: "Raleway", sans-serif ;
 color: white;}
- 
+ /*seccion quienes somos*/
+ /*seccion destacados*/
+ /*seccion contacto*/
 .contacto{margin-left: 15%; margin-right: 15%;}
+
+/*seccion footer*/
 #inputmensaje{height: 200px;}
+
+.footer{height: 100px;}
  
